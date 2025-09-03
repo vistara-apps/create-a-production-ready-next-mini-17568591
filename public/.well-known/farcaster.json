@@ -1,3 +1,14 @@
 {
-  "api": "v1"
+  "api": "v1",
+  "miniapp": {
+    "name": "Base Mini App",
+    "description": "A production-ready Next.js Base mini app using OnchainKit MiniKit",
+    "icon": "https://miniappprodverify2-lby0-c3x8a5vkm-vistara.vercel.app/icon.png",
+    "url": "https://miniappprodverify2-lby0-c3x8a5vkm-vistara.vercel.app"
+  },
+  "permissions": [
+    "farcaster:identity",
+    "farcaster:publishCast",
+    "farcaster:frame"
+  ]
 }
