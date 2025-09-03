@@ -1,10 +1,9 @@
-    {
-      "name": "Base Mini App",
-      "short_name": "Mini App",
-      "start_url": "/",
-      "display": "standalone",
-      "background_color": "#ffffff",
-      "theme_color": "#000000",
-      "orientation": "portrait-primary"
-    }
-  
+{
+  "name": "Base Mini App",
+  "short_name": "Mini App",
+  "start_url": "https://miniappprodverify2-lby0-c3x8a5vkm-vistara.vercel.app",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary"
+}
