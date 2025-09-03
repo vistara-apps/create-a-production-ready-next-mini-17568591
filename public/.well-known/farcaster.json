@@ -1,3 +1,20 @@
 {
-  "api": "v1"
+  "api": "v1",
+  "frames": {
+    "version": "0.1.0",
+    "image": "https://miniappprodverify2-lby0-c3x8a5vkm-vistara.vercel.app/og-image.png",
+    "buttons": [
+      {
+        "label": "Connect Wallet",
+        "action": "post"
+      },
+      {
+        "label": "Learn More",
+        "action": "link",
+        "target": "https://github.com/vistara-apps/create-a-production-ready-next-mini-17568591"
+      }
+    ],
+    "post_url": "https://miniappprodverify2-lby0-c3x8a5vkm-vistara.vercel.app/api/frame"
+  }
 }
+
