@@ -1,9 +1,28 @@
 {
   "name": "Base Mini App",
   "short_name": "Mini App",
+  "description": "A production-ready Next.js Base mini app using OnchainKit MiniKit",
   "start_url": "https://miniappprodverify2-lby0-c3x8a5vkm-vistara.vercel.app",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
-  "orientation": "portrait-primary"
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["social", "web3", "productivity"],
+  "lang": "en-US",
+  "dir": "ltr",
+  "prefer_related_applications": false
 }

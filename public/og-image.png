@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#000000"/>
+  <rect x="50" y="50" width="1100" height="530" rx="20" ry="20" fill="#111111" stroke="#333333" stroke-width="2"/>
+  
+  <!-- Logo -->
+  <g transform="translate(150, 315) scale(0.5)">
+    <rect width="512" height="512" fill="#000000" rx="128" ry="128"/>
+    <path d="M256 128C185.3 128 128 185.3 128 256s57.3 128 128 128 128-57.3 128-128-57.3-128-128-128zm0 48c44.2 0 80 35.8 80 80s-35.8 80-80 80-80-35.8-80-80 35.8-80 80-80z" fill="#3B82F6"/>
+    <circle cx="256" cy="256" r="48" fill="#8B5CF6"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="450" y="250" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="#FFFFFF">Base Mini App</text>
+  <text x="450" y="330" font-family="Arial, sans-serif" font-size="36" fill="#AAAAAA">A production-ready Next.js app</text>
+  <text x="450" y="380" font-family="Arial, sans-serif" font-size="36" fill="#AAAAAA">using OnchainKit MiniKit</text>
+</svg>
